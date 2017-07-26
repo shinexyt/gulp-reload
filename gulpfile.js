@@ -1,5 +1,5 @@
 var gulp = require('gulp');
-// required:ruby & sass
+// required ruby & sass
 var sass = require('gulp-ruby-sass');
 var browserSync = require('browser-sync');
 var reload = browserSync.reload;
