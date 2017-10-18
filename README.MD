@@ -1,6 +1,6 @@
 # gulp-reload
 
-> An easy live-reloading front-end demo with [BrowserSync](http://browsersync.io)  and [gulp](https://github.com/gulpjs/gulp/blob/master/docs/recipes/server-with-livereload-and-css-injection.md), include css injection.
+> An easy live-reloading front-end starter template with [BrowserSync](http://browsersync.io)  and [gulp](https://github.com/gulpjs/gulp/blob/master/docs/recipes/server-with-livereload-and-css-injection.md), include css injection.
 
 ## Build Setup
 
